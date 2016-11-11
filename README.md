@@ -1,2 +1,2 @@
 # NodePractice
-some node practice
+Learn Node by some demo.
