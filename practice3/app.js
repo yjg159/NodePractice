@@ -64,6 +64,4 @@ superagent.get(topicUrl)
             console.log('final:');
             console.log(result);
         });
-        //console.log(topicUrls);
-
     });
